@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [deepanshucodes.vercel.app](deepanshucodes.vercel.app)
+- 👨‍💻 All of my projects are available at [deepanshucodes.vercel.app](https://deepanshucodes.vercel.app/)
 
 - 📫 How to reach me **deepanshu8451@gmail.com**
 
